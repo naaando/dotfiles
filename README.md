@@ -3,7 +3,7 @@ Init submodules
 git submodule update --init --recursive
 ```
 
-Create the links to home folder with gnu stow
+Create the links to home folder with **gnu stow**
 
 ```
 stow powerline-fonts
