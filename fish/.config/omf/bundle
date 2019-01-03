@@ -4,4 +4,5 @@ package nvm
 package sudope
 package z
 theme agnoster
+theme cbjohnson
 theme default
