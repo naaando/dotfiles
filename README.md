@@ -10,4 +10,5 @@ stow powerline-fonts
 stow fish
 stow zsh
 stow asdf
+stow tmux
 ```
