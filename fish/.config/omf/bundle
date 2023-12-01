@@ -1,8 +1,0 @@
-package foreign-env
-package https://github.com/jhillyerd/plugin-git
-package nvm
-package sudope
-package z
-theme agnoster
-theme cbjohnson
-theme default
